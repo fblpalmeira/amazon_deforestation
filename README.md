@@ -7,6 +7,6 @@ Historical deforestation data in the Brazilian Legal Amazon region under deffere
 
 - [Script `.R`](https://github.com/fblpalmeira/amazon_deforestation/blob/main/30dayschallenge_day3.R)
 
-- [Database `.html`]()
+- [Database `.csv`](https://github.com/fblpalmeira/amazon_deforestation/blob/main/amazonia_deforestation.csv)
 
 <img src="https://github.com/fblpalmeira/amazon_deforestation/blob/main/30dayschallenge_day3.png">
