@@ -5,7 +5,7 @@ library(ggplot2)
 library(png)
 library(patchwork)
 
-my_image <- readPNG("mapa-amazonia.png", native = TRUE)
+my_image <- readPNG("https://github.com/fblpalmeira/amazon_deforestation/blob/main/mapa-amazonia.png", native = TRUE)
 p <- ggplot(data = d,
             mapping = aes(x = year, y = km))
 p <- p + scale_x_continuous(breaks=seq(1988,2021,by=1))
