@@ -1,5 +1,5 @@
 
-d<-read.csv("amazonia_deforestation.csv", sep = ";")
+d<-read.csv("https://github.com/fblpalmeira/amazon_deforestation/blob/main/amazonia_deforestation.csv", sep = ";")
 
 library(ggplot2)
 library(png)
